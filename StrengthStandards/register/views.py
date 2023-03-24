@@ -12,6 +12,8 @@ def register(request):
 
 # this is the backend logic that registers the user
 def register_user(request):
+    '''register_user takes a Django form and takes the information entered for the username and password, authenticates
+    the input, and then logs in using this authentication, redirecting to the user_registered page'''
     if request.method == 'POST':
         form = UserCreationForm(request.POST)
         if form.is_valid():
