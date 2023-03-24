@@ -14,6 +14,8 @@ class Exercise(models.Model):
 
 
 class Workout(models.Model):
+    '''Class Workout takes a user, exercise, weight lifted, for reps, and a datetime to return a string message
+    for the training log.'''
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     exercise = models.ForeignKey(Exercise, on_delete=models.CASCADE)
     weight_lifted = models.PositiveIntegerField()
