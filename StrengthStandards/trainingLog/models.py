@@ -5,6 +5,7 @@ from django.urls import reverse
 
 
 class Exercise(models.Model):
+    '''Class Exercise allows us to enter a name and returns it as a string.'''
     name = models.CharField(max_length=50)
 
     def __str__(self):
