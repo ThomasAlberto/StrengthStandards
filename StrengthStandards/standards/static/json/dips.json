@@ -1,0 +1,156 @@
+{
+  "data": [
+    {
+      "BW": "50",
+      "Beginner": "-8 kg",
+      "Novice": "+9 kg",
+      "Intermediate": "+31 kg",
+      "Advanced": "+56 kg",
+      "Elite": "+83 kg"
+    },
+    {
+      "BW": "55",
+      "Beginner": "-7 kg",
+      "Novice": "+12 kg",
+      "Intermediate": "+35 kg",
+      "Advanced": "+62 kg",
+      "Elite": "+90 kg"
+    },
+    {
+      "BW": "60",
+      "Beginner": "-5 kg",
+      "Novice": "+15 kg",
+      "Intermediate": "+39 kg",
+      "Advanced": "+67 kg",
+      "Elite": "+96 kg"
+    },
+    {
+      "BW": "65",
+      "Beginner": "-4 kg",
+      "Novice": "+17 kg",
+      "Intermediate": "+43 kg",
+      "Advanced": "+71 kg",
+      "Elite": "+102 kg"
+    },
+    {
+      "BW": "70",
+      "Beginner": "-2 kg",
+      "Novice": "+20 kg",
+      "Intermediate": "+46 kg",
+      "Advanced": "+76 kg",
+      "Elite": "+107 kg"
+    },
+    {
+      "BW": "75",
+      "Beginner": "-1 kg",
+      "Novice": "+22 kg",
+      "Intermediate": "+49 kg",
+      "Advanced": "+79 kg",
+      "Elite": "+112 kg"
+    },
+    {
+      "BW": "80",
+      "Beginner": "+0 kg",
+      "Novice": "+23 kg",
+      "Intermediate": "+51 kg",
+      "Advanced": "+83 kg",
+      "Elite": "+116 kg"
+    },
+    {
+      "BW": "85",
+      "Beginner": "+0 kg",
+      "Novice": "+25 kg",
+      "Intermediate": "+54 kg",
+      "Advanced": "+86 kg",
+      "Elite": "+120 kg"
+    },
+    {
+      "BW": "90",
+      "Beginner": "+1 kg",
+      "Novice": "+26 kg",
+      "Intermediate": "+56 kg",
+      "Advanced": "+89 kg",
+      "Elite": "+124 kg"
+    },
+    {
+      "BW": "95",
+      "Beginner": "+2 kg",
+      "Novice": "+27 kg",
+      "Intermediate": "+59 kg",
+      "Advanced": "+92 kg",
+      "Elite": "+127 kg"
+    },
+    {
+      "BW": "100",
+      "Beginner": "+2 kg",
+      "Novice": "+29 kg",
+      "Intermediate": "+60 kg",
+      "Advanced": "+94 kg",
+      "Elite": "+130 kg"
+    },
+    {
+      "BW": "105",
+      "Beginner": "+2 kg",
+      "Novice": "+29 kg",
+      "Intermediate": "+61 kg",
+      "Advanced": "+96 kg",
+      "Elite": "+133 kg"
+    },
+    {
+      "BW": "110",
+      "Beginner": "+2 kg",
+      "Novice": "+30 kg",
+      "Intermediate": "+63 kg",
+      "Advanced": "+98 kg",
+      "Elite": "+136 kg"
+    },
+    {
+      "BW": "115",
+      "Beginner": "+2 kg",
+      "Novice": "+31 kg",
+      "Intermediate": "+64 kg",
+      "Advanced": "+100 kg",
+      "Elite": "+138 kg"
+    },
+    {
+      "BW": "120",
+      "Beginner": "+2 kg",
+      "Novice": "+31 kg",
+      "Intermediate": "+65 kg",
+      "Advanced": "+102 kg",
+      "Elite": "+140 kg"
+    },
+    {
+      "BW": "125",
+      "Beginner": "+2 kg",
+      "Novice": "+31 kg",
+      "Intermediate": "+66 kg",
+      "Advanced": "+103 kg",
+      "Elite": "+142 kg"
+    },
+    {
+      "BW": "130",
+      "Beginner": "+2 kg",
+      "Novice": "+32 kg",
+      "Intermediate": "+66 kg",
+      "Advanced": "+104 kg",
+      "Elite": "+144 kg"
+    },
+    {
+      "BW": "135",
+      "Beginner": "+1 kg",
+      "Novice": "+32 kg",
+      "Intermediate": "+67 kg",
+      "Advanced": "+106 kg",
+      "Elite": "+146 kg"
+    },
+    {
+      "BW": "140",
+      "Beginner": "+1 kg",
+      "Novice": "+32 kg",
+      "Intermediate": "+67 kg",
+      "Advanced": "+107 kg",
+      "Elite": "+147 kg"
+    }
+  ]
+}

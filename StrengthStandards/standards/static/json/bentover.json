@@ -1,0 +1,155 @@
+ "data": [
+      {
+        "BW": 50,
+        "Beginner": 21,
+        "Novice": 34,
+        "Intermediate": 51,
+        "Advanced": 71,
+        "Elite": 94
+      },
+      {
+        "BW": 55,
+        "Beginner": 25,
+        "Novice": 39,
+        "Intermediate": 57,
+        "Advanced": 79,
+        "Elite": 102
+      },
+      {
+        "BW": 60,
+        "Beginner": 29,
+        "Novice": 44,
+        "Intermediate": 63,
+        "Advanced": 86,
+        "Elite": 110
+      },
+      {
+        "BW": 65,
+        "Beginner": 33,
+        "Novice": 49,
+        "Intermediate": 69,
+        "Advanced": 93,
+        "Elite": 118
+      },
+      {
+        "BW": 70,
+        "Beginner": 37,
+        "Novice": 54,
+        "Intermediate": 75,
+        "Advanced": 99,
+        "Elite": 126
+      },
+      {
+        "BW": 75,
+        "Beginner": 41,
+        "Novice": 59,
+        "Intermediate": 80,
+        "Advanced": 106,
+        "Elite": 133
+      },
+      {
+        "BW": 80,
+        "Beginner": 45,
+        "Novice": 63,
+        "Intermediate": 86,
+        "Advanced": 112,
+        "Elite": 140
+      },
+      {
+        "BW": 85,
+        "Beginner": 49,
+        "Novice": 68,
+        "Intermediate": 91,
+        "Advanced": 118,
+        "Elite": 146
+      },
+      {
+        "BW": 90,
+        "Beginner": 52,
+        "Novice": 72,
+        "Intermediate": 96,
+        "Advanced": 123,
+        "Elite": 153
+      },
+      {
+        "BW": 95,
+        "Beginner": 56,
+        "Novice": 76,
+        "Intermediate": 101,
+        "Advanced": 129,
+        "Elite": 159
+      },
+      {
+        "BW": 100,
+        "Beginner": 60,
+        "Novice": 80,
+        "Intermediate": 106,
+        "Advanced": 134,
+        "Elite": 165
+      },
+         {
+      "BW": "105",
+      "Beginner": "63",
+      "Novice": "84",
+      "Intermediate": "110",
+      "Advanced": "139",
+      "Elite": "170"
+    },
+    {
+      "BW": "110",
+      "Beginner": "66",
+      "Novice": "88",
+      "Intermediate": "115",
+      "Advanced": "144",
+      "Elite": "176"
+    },
+    {
+      "BW": "115",
+      "Beginner": "70",
+      "Novice": "92",
+      "Intermediate": "119",
+      "Advanced": "149",
+      "Elite": "181"
+    },
+    {
+      "BW": "120",
+      "Beginner": "73",
+      "Novice": "96",
+      "Intermediate": "123",
+      "Advanced": "154",
+      "Elite": "187"
+    },
+    {
+      "BW": "125",
+      "Beginner": "76",
+      "Novice": "100",
+      "Intermediate": "128",
+      "Advanced": "159",
+      "Elite": "192"
+    },
+    {
+      "BW": "130",
+      "Beginner": "79",
+      "Novice": "103",
+      "Intermediate": "132",
+      "Advanced": "163",
+      "Elite": "197"
+    },
+    {
+      "BW": "135",
+      "Beginner": "83",
+      "Novice": "107",
+      "Intermediate": "136",
+      "Advanced": "168",
+      "Elite": "202"
+    },
+    {
+      "BW": "140",
+      "Beginner": "86",
+      "Novice": "110",
+      "Intermediate": "139",
+      "Advanced": "172",
+      "Elite": "206"
+    }
+    ]
+  }
