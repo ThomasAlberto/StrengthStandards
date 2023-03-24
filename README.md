@@ -32,19 +32,20 @@ There are five functional aspects of the Strength Level clone:
 
 1. Install Docker on your system.
 2. Clone the repository.
-3. Build the Docker image by running the following command in the repository directory:
+3. Replace StrengthStandards/settings.py line 23 with: "django-insecure-80!lgf185d=kbw^+@+t=ufb+9(=qn-m@4!yo^tic&*j7n_7&3-"
+4. Build the Docker image by running the following command in the repository directory:
 
 > docker build -t strengthstandards .
 
-4. Run the Docker container by running the following command:
+5. Run the Docker container by running the following command:
 
 > docker run -p 8000:8000 strengthstandards
 
-5. Alternatively you can skip step 4 and enter the following command:
+6. Alternatively you can skip step 4 and enter the following command:
 
 > python manage.py runserver
 
-6. Note -- The superuser and password is:
+7. Note -- The superuser and password is:
 
 > Username: thomas
 > Password: password
