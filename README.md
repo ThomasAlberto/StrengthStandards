@@ -44,6 +44,10 @@ There are five functional aspects of the Strength Level clone:
 
 > python manage.py runserver
 
+6. Note -- The superuser and password is:
+
+> Username: thomas
+> Password: password
 
 
 
