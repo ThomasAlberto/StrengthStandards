@@ -9,6 +9,9 @@ def WilksCalculatorDisplay(request):
 
 
 def wilks_results(request):
+    '''
+    wilks-results returns a render of the wilks_results.html page with the wilks score as a variable
+    '''
     wilks_score = None
     if request.method == 'POST':
         squat_weight = float(request.POST.get("squat_weight"))
